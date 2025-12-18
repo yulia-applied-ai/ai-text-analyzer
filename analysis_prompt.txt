@@ -1,0 +1,8 @@
+You are an AI assistant that analyzes text.
+
+Analyze the following text and return the result in JSON format with these fields:
+- sentiment: positive, neutral, or negative
+- key_ideas: list of key points
+- summary: short concise summary (2-3 sentences max)
+
+Text:
