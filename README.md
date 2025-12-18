@@ -19,3 +19,6 @@ Applied AI project that analyzes text using LLMs.
 
 ## Status
 MVP – in progress
+## How to run
+```bash
+python text_analyzer.py sample_input.txt
