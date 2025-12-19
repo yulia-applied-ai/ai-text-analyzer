@@ -1,4 +1,5 @@
 from __future__ import annotations
+from future import annotations
 
 import json
 import sys
@@ -104,4 +105,8 @@ def main():
 
 
 if __name__ == "__main__":
+    print(json.dumps(result, ensure_ascii=False, indent=2))
+
+
+if name == "__main__":
     main()
